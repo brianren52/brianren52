@@ -7,8 +7,7 @@ Open to software engineering internships.
 ## 🛠 Tech Stack
 - Languages/Libraries: Python (pandas), SQL, C, Typescript, Javascript, HTML, CSS, React, Node.js
 - Tools & Tech: Git, Github Actions, Jest
-- Concepts: Data Structures and Algorithms, Object Oriented Programming, Data Analytics, Computer
-- Networks, Debugging, Linux, REST API design, Testing
+- Concepts: Data Structures and Algorithms, Object Oriented Programming, Data Analytics, Computer Networks, Debugging, Linux, REST API design, Testing
 ---
 ## 📁 Projects
 | Project | Description | Stack |
