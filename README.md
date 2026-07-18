@@ -7,7 +7,7 @@ Open to software engineering and data researcher internships.
 ## 🛠 Tech Stack
 - Languages: Python, C, Java, JavaScript, TypeScript
 - Backend: Node.js, Express, REST APIs
-- Data: SQL, Postgre, Pandas, Statistical modelling, Regression analysis
+- Data: SQL, Postgre, Pandas
 - Tools: Git, Linux/Unix
 ---
 ## 📁 Projects
