@@ -13,6 +13,7 @@ Open to software engineering internships.
 ## 📁 Projects
 | Project | Description | Stack |
 |---------|-------------|-------|
+| **[Inroad](https://github.com/EthanTLim/devsoc-winners/blob/main/README.md)** | Inroad - AI-Powered Job Search Platform (Fullstack) | Next.js · Typescript · React · Jest |
 | **[Toohak](https://github.com/brianren52/toohak)** | Kahoot‑style multiplayer quiz platform – built stub functions, and gameplay APIs | JS · Node.js · Express · Jest |
 | **[Dungeon Mania](https://github.com/brianren52/Dungeon-Mania)** | OOP‑based dungeon crawler – refactored inheritance, added circuit simulation | Java |
 | **[URP](https://github.com/brianren52/URP---UDP-based-Reliable-Protocol)** | UDP‑based reliable transport – sliding window, timeouts, ACKs, loss/corruption emulation | Python |
