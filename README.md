@@ -1,7 +1,7 @@
 # Brian-Ren
 Penultimate-year student at UNSW Sydney studying Computer Science / Mathematics (graduating 2027), High Distinction WAM.
 
-Open to software engineering internships.
+Currently working as a Software Engineer at Venori health. Open to software engineering internships.
 
 ---
 ## 🛠 Tech Stack
